@@ -88,9 +88,9 @@ const HomePage = ({ data }) => {
           >
             {frontmatter.cta.ctaText}<span class="icon -right"><RiArrowRightSLine/></span>
           </Link>*/}
-          <div  className="social-icons" sx={indexStyles.socialIcons}>
+          {/*<div  className="social-icons" sx={indexStyles.socialIcons}>
             {sIcons}
-          </div>
+          </div>*/}
         </div>
         <div>
           {Image ? (
