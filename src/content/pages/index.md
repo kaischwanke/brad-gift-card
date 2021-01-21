@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Scam detected
 tagline: Scam alert system
-featuredImage: /assets/fbi.svg
+featuredImage: /assets/fbi.png
 cta:
   ctaText: Know more
   ctaLink: /about
